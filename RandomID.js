@@ -26,8 +26,8 @@ var j = Math.floor((Math.random() * 10));
 var caller_id = ("1"+ a + b + c + d + e + f + g + h + i + j);
 
 //Change Text-Box of CallerID to generated number
-var a = document.getElementById("address_ua_config_display_name");
-  a.value = caller_id;
+var phone_input = document.getElementById("address_ua_config_display_name");
+  phone_input.value = caller_id;
 
 // Click Save
 $("button.btn.btn-default").click()

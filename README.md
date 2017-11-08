@@ -1,7 +1,7 @@
 # FireRTCRandomID
 Easily generates a random phone number for the Caller ID everytime you paste the code
 
-!(https://i.ytimg.com/vi/KCYR9418I98/maxresdefault.jpg)
+[![maxresdefault.jpg](https://s1.postimg.org/981n9mzcvz/maxresdefault.jpg)](https://postimg.org/image/8xetghk4qj/)
 
 ## How To Use
 1. Navigate (in a new tab) to [FireRTC Phone Settings](https://phone.firertc.com/settings)

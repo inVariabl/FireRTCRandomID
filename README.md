@@ -5,7 +5,7 @@ Easily generates a random phone number for the Caller ID everytime you paste the
 
 ## How To Use
 1. Navigate (in a new tab) to [FireRTC Phone Settings](https://phone.firertc.com/settings)
-2. Open up the Javascript Console (Chrome: Control-Shift-K / Shift-Command-K)
+2. Open up the Javascript Console (FF: Control-Shift-K / Shift-Command-K)
 3. Copy and Paste Entire Code into Console
 4. Run everytime you need a new number (Automatically Saves)
 

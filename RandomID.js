@@ -1,5 +1,5 @@
-/** FireRTC Auto CallerID **/
-/* Created by Daniel Crooks */
+/** FireRTC Auto CallerID Reset **/
+// Created by Daniel Crooks
 
 /* 
 1. Go To: https://phone.firertc.com/settings
